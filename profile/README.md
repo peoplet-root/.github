@@ -1,96 +1,122 @@
 <!-- HERO SECTION -->
-<div style="background:#0066ff; padding:60px 30px; text-align:center; border-radius:12px;">
+<div align="center" style="
+    background:linear-gradient(135deg,#0066ff 0%,#0044aa 100%);
+    padding:70px 30px;
+    border-radius:16px;
+    color:white;
+">
 
-  <h1 style="color:white; font-size:48px; font-weight:800; margin-bottom:20px;">
-    Peoplet
-  </h1>
+<h1 style="font-size:60px; font-weight:900; margin-bottom:10px;">
+  PEOPLET
+</h1>
 
-  <p style="color:white; font-size:20px; max-width:780px; margin:0 auto;">
-    We connect people, teams, and organizations through intelligent systems,
-    graph-based analytics, and data-driven design.
-  </p>
+<p style="font-size:22px; max-width:820px; line-height:1.5; margin:auto;">
+  Network Science • Creative Engineering • Intelligent Design  
+  <br/>
+  We build systems that understand people — and empower them.
+</p>
 
 </div>
 
-<br/>
+---
+
+# 🧬 **We Are Hybrid**
+We combine **technology**, **design**, and **network science** into a single creative force.  
+Not an agency.  
+Not a dev shop.  
+Not a research lab.  
+Something *in between* — and beyond.
+
+Our work lives where **data meets design**, where **structure becomes meaning**,  
+and where people become **networks, patterns, and stories**.
 
 ---
 
-# 🌐 About Peoplet
-Peoplet is a multidisciplinary studio and tech company focused on **network science**,  
-**data analysis**, **software development**, and **creative brand experiences**.
+# 🔹 **What We Create**
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-Naša misija je omogućiti organizacijama bolji uvid u njihove strukture, odnose i mogućnosti —  
-kombinirajući **naprednu analitiku**, **moderno inženjerstvo** i **vrhunski dizajn**.
+<div style="flex:1; min-width:260px; background:#0066ff; color:white; padding:20px; border-radius:12px;">
+<h3>Graph Intelligence</h3>
+Mapping connections, revealing hidden pathways, identifying influence,  
+and giving organizations a living, breathing view of themselves.
+</div>
 
----
+<div style="flex:1; min-width:260px; background:#000000; color:white; padding:20px; border-radius:12px;">
+<h3>Data & Pattern Analysis</h3>
+Turning fragmented data into structure, insights, and smart decision layers.
+</div>
 
-# 🧠 What We Do
+<div style="flex:1; min-width:260px; background:#111; color:white; padding:20px; border-radius:12px;">
+<h3>Full-Stack Engineering</h3>
+Next.js, Django, Neo4j, PostgreSQL — systems built with precision and clarity.
+</div>
 
-## 🔷 **Network Science & Data Analytics**
-- Graph modeling (Neo4j, NetworkX, ML embeddings)  
-- Relationship & community detection  
-- Behavioral patterns & influence mapping  
-- Predictive analytics & data insights  
+<div style="flex:1; min-width:260px; background:#fff; color:#0066ff; padding:20px; border-radius:12px; border:2px solid #0066ff;">
+<h3>Design & Branding</h3>
+Identity, UX, interfaces, creative systems, and visual logic with purpose.
+</div>
 
----
-
-## 🔷 **Software Engineering**
-- Full-stack web development (Next.js, React, Django, PostgreSQL, Neo4j)  
-- REST & GraphQL API development  
-- Real-time systems & graph visualization engines  
-- Custom enterprise platforms  
-
----
-
-## 🔷 **Design & Creative**
-- UI/UX design for modern products  
-- Digital product design systems  
-- Branding & identity development  
-- Graphic design for web & print  
-- Visual storytelling & communication  
+</div>
 
 ---
 
-## 🔷 **Consulting**
-- Network science consulting  
-- Data strategy planning  
+# 🧭 **Our Domains**
+
+### **Network Science**
+- Structural graph analysis  
+- Community detection  
+- Centrality/flow modeling  
 - Organizational mapping  
-- Product consulting & system design  
+- Influence nets & pattern forecasting  
+
+### **Software Engineering**
+- Next.js + Tailwind frontends  
+- Django/DRF + PostgreSQL backends  
+- Neo4j graph architecture  
+- Real-time visualization engines  
+
+### **Design & Identity**
+- Digital product design  
+- UX systems  
+- Branding  
+- Graphic language development  
+
+### **Consulting & Strategy**
+- Data strategy  
+- Tech product design  
+- Innovation architecture  
 
 ---
 
-# 🧩 Technology Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,django,postgres,neo4j,figma,git,docker" />
-</p>
+# 🧩 **Technology Stack**
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,django,postgres,neo4j,figma,git,docker" />
+
+</div>
 
 ---
 
-# 📁 Key Projects
-- **peoplet-frontend** – Platform UI (Next.js + Tailwind)  
-- **peoplet-backend** – API & data engine (Django REST + PostgreSQL)  
-- **peoplet-graph-engine** – Network analytics & visualization layer  
-- **design-system** – Branding & components  
-- **internal-tools** – Automation, scrapers, data pipelines  
+# 🌍 **We Build For People**
 
----
+At the core of everything we create is a simple belief:
 
-# 🎨 Branding Guidelines
-- **Primary Blue:** `#0066ff`  
-- **Black:** `#000000`  
-- **White:** `#ffffff`  
-- Minimalistic, clean, high-contrast layouts  
-- Strong typography + graph-inspired visual language  
+> **People are networks.  
+> Networks are stories.  
+> Stories deserve clarity.**
+
+Peoplet turns complexity into understanding  
+— and understanding into impact.
 
 ---
 
 # 📬 Contact
 📧 info@peoplet.com  
-🌍 https://www.peoplet.com  
+🌐 https://www.peoplet.com  
 
 ---
 
-<div style="text-align:center; color:#777; font-size:14px; margin-top:20px;">
-Made with ❤️ by the Peoplet Team
+<div align="center" style="color:#999; font-size:14px; margin-top:20px;">
+Crafted with intention by the Peoplet Team.
 </div>
