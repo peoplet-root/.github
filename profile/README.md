@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Network Science × Creative Engineering × Intelligent Design
+### Creative Digital & Technology Agency
 
-**We build systems that understand people — and empower them.**
+**We build digital experiences that make an impact.**
 
 [![Website](https://img.shields.io/badge/🌐_peoplet.com-0066ff?style=for-the-badge)](https://www.peoplet.com)
 [![Email](https://img.shields.io/badge/📧_info@peoplet.com-000000?style=for-the-badge)](mailto:info@peoplet.com)
@@ -13,79 +13,117 @@
 
 ---
 
-## 🧬 We Are Hybrid
+## 🎯 The Peoplet App
 
-```diff
-- Not an agency.
-- Not a dev shop.
-- Not a research lab.
+<div align="center">
 
-+ Something in between — and beyond.
+<table>
+<tr>
+<td width="100%" bgcolor="#0066ff" align="center">
+<h2>🌐 Visualize Human & Data Networks</h2>
+<p><b>Peoplet App transforms complexity into visual understanding — revealing how people, ideas, and systems connect.</b></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+**Peoplet App** is our flagship platform that turns complex datasets into interactive network visualizations, allowing organizations to see relationships and patterns that were previously invisible — empowering better collaboration, decision-making, and growth.
+
+### Key Features
+
+```python
+features = {
+    "network_visualization": "See relationships and patterns in your data",
+    "interactive_graphs": "Explore connections dynamically in real-time",
+    "data_intelligence": "Uncover insights hidden in complexity",
+    "collaboration_tools": "Make better decisions together",
+    "organizational_mapping": "Understand your team's structure",
+    "influence_detection": "Identify key connectors and influencers"
+}
 ```
 
-Our work lives where **data meets design**, where **structure becomes meaning**, and where people become **networks, patterns, and stories**.
+<div align="center">
+
+### ![Transform](https://img.shields.io/badge/Data_→_Stories_→_Strategies_→_Opportunities-000000?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🎯 What We Create
+## 🚀 Our Services
+
+<div align="center">
+
+**We connect creativity and strategy to deliver impactful digital solutions**
+
+</div>
 
 <table>
 <tr>
 <td width="50%" bgcolor="#0066ff">
-<img src="https://img.shields.io/badge/Graph_Intelligence-0066ff?style=flat&logoColor=white" />
+<h3>🌐 Web Development & Digital Experiences</h3>
 
-**Mapping connections, revealing hidden pathways, identifying influence, and giving organizations a living, breathing view of themselves.**
+We design and build custom websites and web applications that combine performance, usability, and visual appeal. Every digital experience we create is built to engage users, strengthen brands, and drive business results.
 
 ```yaml
-capabilities:
-  - Network topology analysis
-  - Influence mapping
-  - Organizational intelligence
-  - Relationship visualization
+expertise:
+  - Custom web applications
+  - Next.js & React frontends
+  - Django & PostgreSQL backends
+  - SEO-optimized experiences
+  - Scalable architectures
+  - Real-time systems
 ```
 
 </td>
 <td width="50%" bgcolor="#000000">
-<img src="https://img.shields.io/badge/Data_&_Pattern_Analysis-000000?style=flat&logoColor=white" />
+<h3>🎨 Graphic Design & Brand Identity</h3>
 
-**Turning fragmented data into structure, insights, and smart decision layers.**
+Our creative team crafts powerful visual identities and brand systems that communicate clearly and leave a lasting impression. From concept to execution, we bring your brand to life across every digital channel.
 
 ```yaml
-capabilities:
-  - Predictive modeling
-  - Pattern recognition
-  - Data transformation
-  - Intelligence synthesis
+services:
+  - Visual identity design
+  - Brand system development
+  - Digital product design
+  - UX/UI design systems
+  - Responsive interfaces
+  - Typography & graphics
 ```
 
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#1a1a1a">
-<img src="https://img.shields.io/badge/Full_Stack_Engineering-1a1a1a?style=flat&logoColor=white" />
+<td width="50%" bgcolor="#000000">
+<h3>📊 Data & Strategy Consulting</h3>
 
-**Systems built with precision and clarity using modern, battle-tested technologies.**
+We help organizations make smarter decisions by connecting design, data, and business strategy. Through our analytical and network-based approach, we uncover insights that optimize performance and collaboration.
 
 ```yaml
 capabilities:
-  - Scalable architectures
-  - Real-time systems
-  - API development
-  - Cloud infrastructure
+  - Network analysis & visualization
+  - Organizational mapping
+  - Strategic data insights
+  - Performance optimization
+  - Business intelligence
+  - Innovation consulting
 ```
 
 </td>
 <td width="50%" bgcolor="#0066ff">
-<img src="https://img.shields.io/badge/Design_&_Branding-0066ff?style=flat&logoColor=white" />
+<h3>⚡ Data Analytics & Automation</h3>
 
-**Identity, UX, interfaces, creative systems, and visual logic with purpose.**
+Our team builds data-driven systems that simplify complex workflows and help businesses operate more efficiently. We turn information into action — combining analytics, visualization, and automation to accelerate growth.
 
 ```yaml
-capabilities:
-  - Product design
-  - Brand systems
-  - UI/UX strategy
-  - Design systems
+solutions:
+  - Workflow automation
+  - Data pipeline engineering
+  - Real-time analytics
+  - Business automation
+  - Custom dashboards
+  - Predictive modeling
 ```
 
 </td>
@@ -94,77 +132,11 @@ capabilities:
 
 ---
 
-## 🧭 Our Domains
+## 💼 About Peoplet Studio
 
-<table>
-<tr>
-<td width="50%">
+Peoplet Studio is a creative digital and technology agency focused on building **web applications**, **digital products**, and **brand identities** that make an impact. We help companies transform ideas into functional, scalable, and visually powerful digital experiences — blending strategy, design, web development, and data analytics.
 
-### 🕸️ <img src="https://img.shields.io/badge/Network_Science-0066ff?style=flat" />
-
-```python
-domains = {
-    "structural_analysis": "Graph topology & patterns",
-    "community_detection": "Clustering & grouping",
-    "centrality_modeling": "Flow & influence metrics",
-    "org_mapping": "Network intelligence",
-    "forecasting": "Pattern prediction",
-    "link_prediction": "Relationship scoring"
-}
-```
-
-</td>
-<td width="50%">
-
-### 💻 <img src="https://img.shields.io/badge/Software_Engineering-000000?style=flat" />
-
-```javascript
-const stack = {
-  frontend: ["Next.js", "React", "TypeScript"],
-  backend: ["Django", "DRF", "PostgreSQL"],
-  graph: ["Neo4j"],
-  realtime: ["Visualization engines"],
-  apis: ["REST", "GraphQL"],
-  infra: ["Docker"]
-}
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 <img src="https://img.shields.io/badge/Design_&_Identity-0066ff?style=flat" />
-
-```css
-.design-system {
-  product-design: digital-experiences;
-  components: design-systems;
-  research: ux-strategy;
-  branding: identity-development;
-  responsive: interface-design;
-  typography: graphic-systems;
-}
-```
-
-</td>
-<td width="50%">
-
-### 🧠 <img src="https://img.shields.io/badge/Consulting_&_Strategy-000000?style=flat" />
-
-```ruby
-strategy = {
-  data: "Architecture & planning",
-  product: "Design & roadmapping",
-  innovation: "Consulting & research",
-  discovery: "Research & insights",
-  growth: "Optimization strategy"
-}
-```
-
-</td>
-</tr>
-</table>
+We combine **UX/UI design** and **network science** to visualize and understand how people, systems, and data interact. This approach helps our clients make smarter decisions, uncover new opportunities, and optimize performance through data-driven insights.
 
 ---
 
@@ -193,101 +165,96 @@ strategy = {
 
 ---
 
-## 💡 Philosophy
+## 🎯 How We Build Digital Experiences
+
+<table>
+<tr>
+<td width="25%" align="center" bgcolor="#0066ff">
+<h3>01</h3>
+<h4>Discovery</h4>
+Every collaboration starts with understanding. We analyze your goals, audience, and digital ecosystem.
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h3>02</h3>
+<h4>Design</h4>
+We shape ideas into visual and interactive systems designed to communicate purpose and emotion.
+</td>
+<td width="25%" align="center" bgcolor="#0066ff">
+<h3>03</h3>
+<h4>Development</h4>
+We craft digital experiences through clean, scalable code built for performance and growth.
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h3>04</h3>
+<h4>Growth</h4>
+We monitor, learn, and evolve through analytics, data, and iteration.
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Our Vision
 
 <div align="center">
 
 <table>
 <tr>
 <td bgcolor="#0066ff" align="center">
-<h3>🌐 People are networks.</h3>
-</td>
-</tr>
-<tr>
-<td bgcolor="#000000" align="center">
-<h3>📖 Networks are stories.</h3>
-</td>
-</tr>
-<tr>
-<td bgcolor="#0066ff" align="center">
-<h3>✨ Stories deserve clarity.</h3>
+<h3>🌐 Where Ideas and People Connect</h3>
 </td>
 </tr>
 </table>
 
-**Peoplet turns complexity into understanding — and understanding into impact.**
+At Peoplet, we believe that the best digital products come from a deep understanding of people and the systems they create together. Our vision is to build tools, interfaces, and strategies that make human connections visible — transforming data into empathy, complexity into clarity, and ideas into action.
 
 </div>
 
 ---
 
-## 🌍 Our Process
-
-```mermaid
-graph LR
-    A[Complex Data] --> B[Network Analysis]
-    B --> C[Visual Intelligence]
-    C --> D[Actionable Insights]
-    D --> E[Strategic Impact]
-    
-    style A fill:#0066ff,color:#fff,stroke:#0066ff,stroke-width:3px
-    style B fill:#000,color:#fff,stroke:#0066ff,stroke-width:2px
-    style C fill:#0066ff,color:#fff,stroke:#000,stroke-width:2px
-    style D fill:#000,color:#fff,stroke:#0066ff,stroke-width:2px
-    style E fill:#0066ff,color:#fff,stroke:#0066ff,stroke-width:3px
-```
-
-<div align="center">
-
-**We don't just build software — we architect intelligence systems that reveal the hidden structure of human connection.**
-
-</div>
-
----
-
-## 🚀 Who We Work With
+## 🌍 Who We Work With
 
 <table>
 <tr>
 <td width="25%" align="center" bgcolor="#0066ff">
 <h3>🏢</h3>
 <b>Organizations</b><br/>
-Understanding internal networks
+Seeking to understand their internal networks and collaboration patterns
 </td>
 <td width="25%" align="center" bgcolor="#000000">
 <h3>📊</h3>
 <b>Data Teams</b><br/>
-Advanced graph analytics
+Needing advanced graph analytics and visualization tools
 </td>
 <td width="25%" align="center" bgcolor="#0066ff">
-<h3>🎯</h3>
-<b>Product Teams</b><br/>
-Intelligent design systems
+<h3>🚀</h3>
+<b>Startups</b><br/>
+Building scalable digital products and platforms
 </td>
 <td width="25%" align="center" bgcolor="#000000">
-<h3>💡</h3>
-<b>Innovators</b><br/>
-Pushing boundaries
+<h3>🏭</h3>
+<b>Enterprises</b><br/>
+Optimizing workflows and business intelligence
 </td>
 </tr>
 </table>
 
 ---
 
-## 📬 Get In Touch
+## 📬 Let's Work Together
 
 <div align="center">
 
-### ![Ready?](https://img.shields.io/badge/Ready_to_transform_complexity_into_clarity?-0066ff?style=for-the-badge)
+### ![Ready?](https://img.shields.io/badge/Have_an_idea_or_project?_Let's_talk.-0066ff?style=for-the-badge)
 
 <table>
 <tr>
-<td align="center" bgcolor="#0066ff">
-<h3>📧</h3>
+<td align="center" bgcolor="#0066ff" width="50%">
+<h3>📧 Email Us</h3>
 <a href="mailto:info@peoplet.com"><b>info@peoplet.com</b></a>
 </td>
-<td align="center" bgcolor="#000000">
-<h3>🌐</h3>
+<td align="center" bgcolor="#000000" width="50%">
+<h3>🌐 Visit Our Website</h3>
 <a href="https://www.peoplet.com"><b>peoplet.com</b></a>
 </td>
 </tr>
@@ -302,7 +269,8 @@ Pushing boundaries
 **Crafted with intention by the Peoplet Team** ✨
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-0066ff?style=flat-square)
-![Network Science](https://img.shields.io/badge/Network-Science-0066ff?style=flat-square)
-![Creative Engineering](https://img.shields.io/badge/Creative-Engineering-000000?style=flat-square)
+![Web Development](https://img.shields.io/badge/Web-Development-0066ff?style=flat-square)
+![Network Science](https://img.shields.io/badge/Network-Science-000000?style=flat-square)
+![Creative Design](https://img.shields.io/badge/Creative-Design-0066ff?style=flat-square)
 
 </div>
