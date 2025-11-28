@@ -7,7 +7,7 @@
 **We build systems that understand people — and empower them.**
 
 [![Website](https://img.shields.io/badge/🌐_peoplet.com-0066ff?style=for-the-badge)](https://www.peoplet.com)
-[![Email](https://img.shields.io/badge/📧_info@peoplet.com-000000?style=for-the-badge)](mailto:info@peoplet.com)
+[![Email](https://img.shields.io/badge/📧_info@peoplet.com-000000?style=for-the-badge)](mailto:info@peoplet.io)
 
 </div>
 
