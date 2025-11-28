@@ -13,40 +13,17 @@
 
 ---
 
-## 🌐 The Peoplet App
+## 🌐 Welcome to Peoplet
 
-<table>
-<tr>
-<td width="60%" bgcolor="#0066ff">
-<h2>See Your Network. Understand Your World.</h2>
-<p>Peoplet App transforms chaos into clarity — turning complex data into living, breathing networks you can explore, understand, and act on.</p>
-<br/>
-<b>→ Visualize relationships in real-time</b><br/>
-<b>→ Discover hidden patterns and influencers</b><br/>
-<b>→ Map organizational intelligence</b><br/>
-<b>→ Make decisions backed by network science</b><br/>
-</td>
-<td width="40%" bgcolor="#000000">
+Peoplet is an online tool and a network visualization platform for the analysis and mapping of complex organizational networks and relationship data. Learn more at [peoplet.com](https://www.peoplet.com).
 
-```mermaid
-graph TD
-    A[Your Data] -->|Transform| B[Network Graph]
-    B -->|Explore| C[Insights]
-    C -->|Act| D[Impact]
-    
-    style A fill:#0066ff,color:#fff
-    style B fill:#000,color:#fff
-    style C fill:#0066ff,color:#fff
-    style D fill:#000,color:#fff
-```
+If you want to submit an issue about Peoplet, you can do it in our [issues repository](https://github.com/peoplet/peoplet/issues).
 
-</td>
-</tr>
-</table>
+If you have any questions, feel free to reach out at [info@peoplet.com](mailto:info@peoplet.com).
 
 <div align="center">
 
-### Where data becomes stories, and stories become strategies.
+![Peoplet App Network Visualization](https://via.placeholder.com/800x450/0066ff/ffffff?text=Peoplet+Network+Visualization)
 
 </div>
 
