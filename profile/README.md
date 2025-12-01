@@ -86,9 +86,6 @@ Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | D
 
 - 🌐 [Website](https://www.peoplet.com)
 - 🧠 [Network Science Info](https://en.wikipedia.org/wiki/Network_science)
-- 🎨 [Design Inspiration](https://dribbble.com/)
-- 🔬 [Neo4j](https://neo4j.com/)
-- 🚀 [Next.js](https://nextjs.org/)
 
 ## Contact us
 
