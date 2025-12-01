@@ -64,13 +64,6 @@ Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | D
 
 ## Our content
 
-**Articles:**
-
-- *Understanding Organization Networks Through Graph Science*
-- *How Graph-Based Systems Improve Team Performance*
-- *Designing Digital Products with Data at the Center*
-- *Visual Communication for Technical Systems*
-
 **Video content:**
 
 |[![Network Science Intro](https://img.youtube.com/vi/2vj37eFJq-Y/mqdefault.jpg)](https://www.youtube.com "Network Science Intro")|[![Graph Visualization Basics](https://img.youtube.com/vi/XN7rC8g7NsM/mqdefault.jpg)](https://www.youtube.com "Graph Visualization Basics")|[![UI/UX for Data Platforms](https://img.youtube.com/vi/tZGXaYw7vuM/mqdefault.jpg)](https://www.youtube.com "UI UX for Data Platforms")
