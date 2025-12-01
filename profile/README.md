@@ -51,6 +51,7 @@ Our products and client solutions are built on top of **modern, scalable technol
   <img src="https://skillicons.dev/icons?i=django" width="67.5px" />
   <img src="https://skillicons.dev/icons?i=postgres" width="67.5px" />
   <img src="https://skillicons.dev/icons?i=figma" width="67.5px" />
+  <img src="https://skillicons.dev/icons?i=neo4j" width="67.5px" />
 </p>
 
 ## Our products & tools
