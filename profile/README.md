@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/peoplet-root/assets/main/peoplet_banner.svg "Header")](https://www.peoplet.com)
+<img width="1884" height="796" alt="image" src="https://github.com/user-attachments/assets/4bac9099-3c00-4795-8672-087f37dbe70a" />
+
+##
 
 Hi there ✋!  
 We are **[Peoplet](https://www.peoplet.com)**
