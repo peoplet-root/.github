@@ -65,25 +65,41 @@ Our products and client solutions are built on top of **modern, scalable technol
 </p>
 <br><br>
 
-## Our products & tools
+## 🔷 Peoplet Products
 
-#### **Peoplet Graph Engine**
-• Neo4j + NetworkX graph analytics  
-• Community detection & pattern discovery  
-• Relationship & influence modeling  
-*Private · Internal*
+### **Peoplet App — Network Intelligence**
+A data visualization platform that maps relationships between people, projects, and ideas.  
+It uncovers hidden patterns, enhances collaboration, and reveals structures inside complex networks.  
+Designed for clarity and exploration, it makes navigating relational data intuitive and insightful.
 
-#### **Peoplet Platform UI**
-• Next.js interface  
-• Real-time interactive graph visualizations  
-• Modular design system  
-*Private · Internal*
+---
 
-#### **Peoplet API**
-• Django REST architecture  
-• Secure, scalable data layer  
-• Powers the entire Peoplet ecosystem  
-*Private · Internal*
+### **Peoplet Stat — Data Management**
+An intelligent workspace for managing and analyzing data from the Peoplet ecosystem.  
+Similar to a dynamic spreadsheet — familiar and flexible — but powered by live connections to people, projects, and organizational structures.  
+It automates data ingestion, exposes insights, and supports data-driven decisions with precision.
+
+---
+
+### **Peoplet Mobile — The Peoplet Experience on the Go**
+A mobile companion app built for fast, accessible relational insights.  
+It enables users to explore network structures, view updates, track team dynamics, and receive intelligent recommendations — all optimized for mobile interaction.  
+Perfect for teams working in motion, leadership on the go, and agile environments.
+
+---
+
+### **Peoplet Connect — Collaboration Layer**
+A communication and coordination layer integrated directly into the Peoplet graph.  
+It links projects, tasks, and people through data-aware interactions — creating a smarter workflow.  
+Messages, assignments, and updates become part of the network, enabling context-rich collaboration.
+
+---
+
+### **Peoplet Insights — Analytics & Intelligence Suite**
+A modular analytics environment providing advanced metrics, dashboards, and predictive insights.  
+Combines graph algorithms, behavioral patterns, and performance indicators to help teams understand influence, structure, and opportunities.  
+Designed for leaders, analysts, and data-driven organizations.
+
 ## Our content
 
 **Video content:**
