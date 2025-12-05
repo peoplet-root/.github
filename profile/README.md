@@ -81,14 +81,7 @@ Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | D
 |:--:|:--:|:--:|
 |Introduction to Network Science|Graph visualization basics|Design principles for complex data platforms|
 <br><br>
-## Latest updates
 
-1. **New Network-Analytics API Layer** <br> *Real-time graph operations & insights*
-2. **Peoplet Design System v1** <br> *Typography, spacing, components, brand rules*
-3. **Graph Visualization Performance Upgrade** <br> *Up to 40% faster rendering*
-4. **Data Pipeline Refactor** <br> *Better structure & easier scaling*
-5. **New Demo Graph Experience** <br> *Clean UI + improved interactions*
-<br><br>
 ## Useful Links
 
 - 🌐 [Website](https://www.peoplet.com)
