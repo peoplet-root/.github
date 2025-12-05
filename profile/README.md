@@ -81,24 +81,12 @@ It automates data ingestion, exposes insights, and supports data-driven decision
 
 ---
 
-### **Peoplet Mobile — The Peoplet Experience on the Go**
-A mobile companion app built for fast, accessible relational insights.  
-It enables users to explore network structures, view updates, track team dynamics, and receive intelligent recommendations — all optimized for mobile interaction.  
-Perfect for teams working in motion, leadership on the go, and agile environments.
+### **Primp — Social Fashion & Outfit Rating**
+A mobile-first social platform where users share their outfits, explore styles, and rate looks from others.  
+Primp blends community, creativity, and personal expression — allowing anyone to build a fashion identity, get instant feedback, and discover trending styles through interactive social engagement.  
+Designed to be simple, fun, and visually immersive.
 
----
 
-### **Peoplet Connect — Collaboration Layer**
-A communication and coordination layer integrated directly into the Peoplet graph.  
-It links projects, tasks, and people through data-aware interactions — creating a smarter workflow.  
-Messages, assignments, and updates become part of the network, enabling context-rich collaboration.
-
----
-
-### **Peoplet Insights — Analytics & Intelligence Suite**
-A modular analytics environment providing advanced metrics, dashboards, and predictive insights.  
-Combines graph algorithms, behavioral patterns, and performance indicators to help teams understand influence, structure, and opportunities.  
-Designed for leaders, analysts, and data-driven organizations.
 
 ## Our content
 
