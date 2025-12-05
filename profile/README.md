@@ -65,7 +65,7 @@ Our products and client solutions are built on top of **modern, scalable technol
 </p>
 <br><br>
 
-## 🔷 Peoplet Products
+## Peoplet Products
 
 ### **Peoplet App — Network Intelligence**
 A data visualization platform that maps relationships between people, projects, and ideas.  
@@ -100,7 +100,7 @@ Designed to be simple, fun, and visually immersive.
 ## Useful Links
 
 - 🌐 [Website](https://www.peoplet.com)
-- 🧠 [Network Science Info](https://en.wikipedia.org/wiki/Network_science)
+- 🧠 [Peoplet App](https://client.peoplet.io)
 <br><br>
 ## Contact us
 
