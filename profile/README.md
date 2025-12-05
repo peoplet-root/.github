@@ -67,11 +67,11 @@ Our products and client solutions are built on top of **modern, scalable technol
 
 ## Our products & tools
 
-Peoplet Graph Engine | Peoplet Platform UI | Peoplet API | Design System
---------------------- | ------------------- | ----------- | -------------
-Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | Django REST API powering Peoplet | Brand & component system
-📦 Private | 📦 Private | 📦 Private | 📦 Private
-🔧 Internal | 🔧 Internal | 🔧 Internal | 🔧 Internal
+Peoplet Graph Engine | Peoplet Platform UI | Peoplet API
+--------------------- | ------------------- | -----------
+Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | Django REST API powering Peoplet
+📦 Private | 📦 Private | 📦 Private
+🔧 Internal | 🔧 Internal | 🔧 Internal
 <br><br>
 ## Our content
 
