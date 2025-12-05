@@ -1,15 +1,19 @@
-<img width="1884" height="796" alt="image" src="https://github.com/user-attachments/assets/4bac9099-3c00-4795-8672-087f37dbe70a" />
+<img width="1884" height="708" alt="image" src="https://github.com/user-attachments/assets/c63ffa75-e4a4-4d92-9ba2-4358f33cbe3b" />
 
-##
 
-Hi there ✋!  
-We are **[Peoplet](https://www.peoplet.com)**
+<h3 align="center">Hi there ✋!</h3>
+<h3 align="center">
+  We are <a href="https://www.peoplet.com"><strong>Peoplet</strong></a>.
+</h3>
+
+<br>
 
 ## About Us
 
 We combine **network science**, **software engineering**, **data analysis**, and **design** to help organizations understand their people, structure, relationships, and hidden patterns.
 
 We build intelligent systems — and beautiful experiences — that empower teams, leaders, and whole ecosystems.
+<br><br>
 
 ## Our expertise
 
@@ -39,7 +43,7 @@ We build intelligent systems — and beautiful experiences — that empower team
   - Network science strategy  
   - Data strategy & architecture  
   - Product consulting  
-
+<br><br>
 ## Our technologies
 
 Our products and client solutions are built on top of **modern, scalable technologies** — allowing engineers, analysts, designers, and stakeholders to speak the same language.
@@ -59,6 +63,7 @@ Our products and client solutions are built on top of **modern, scalable technol
     style="border: 2px solid black; border-radius: 12px; padding: 6px; box-sizing: border-box;"
   />
 </p>
+<br><br>
 
 ## Our products & tools
 
@@ -67,7 +72,7 @@ Peoplet Graph Engine | Peoplet Platform UI | Peoplet API | Design System
 Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | Django REST API powering Peoplet | Brand & component system
 📦 Private | 📦 Private | 📦 Private | 📦 Private
 🔧 Internal | 🔧 Internal | 🔧 Internal | 🔧 Internal
-
+<br><br>
 ## Our content
 
 **Video content:**
@@ -75,7 +80,7 @@ Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | D
 |[![Network Science Intro](https://img.youtube.com/vi/2vj37eFJq-Y/mqdefault.jpg)](https://www.youtube.com "Network Science Intro")|[![Graph Visualization Basics](https://img.youtube.com/vi/XN7rC8g7NsM/mqdefault.jpg)](https://www.youtube.com "Graph Visualization Basics")|[![UI/UX for Data Platforms](https://img.youtube.com/vi/tZGXaYw7vuM/mqdefault.jpg)](https://www.youtube.com "UI UX for Data Platforms")
 |:--:|:--:|:--:|
 |Introduction to Network Science|Graph visualization basics|Design principles for complex data platforms|
-
+<br><br>
 ## Latest updates
 
 1. **New Network-Analytics API Layer** <br> *Real-time graph operations & insights*
@@ -83,12 +88,12 @@ Graph analytics system (Neo4j + NetworkX) | Modern web UI built with Next.js | D
 3. **Graph Visualization Performance Upgrade** <br> *Up to 40% faster rendering*
 4. **Data Pipeline Refactor** <br> *Better structure & easier scaling*
 5. **New Demo Graph Experience** <br> *Clean UI + improved interactions*
-
+<br><br>
 ## Useful Links
 
 - 🌐 [Website](https://www.peoplet.com)
 - 🧠 [Network Science Info](https://en.wikipedia.org/wiki/Network_science)
-
+<br><br>
 ## Contact us
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/peoplet-root)  
