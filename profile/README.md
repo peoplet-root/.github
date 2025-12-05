@@ -1,4 +1,4 @@
-<img width="1884" height="708" alt="image" src="https://github.com/user-attachments/assets/c63ffa75-e4a4-4d92-9ba2-4358f33cbe3b" />
+<img width="1884" height="708" alt="image" src="https://raw.githubusercontent.com/peoplet-root/.github/main/github-banner.png" />
 
 
 <h3 align="center">Hi there ✋!</h3>
